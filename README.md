@@ -1,1 +1,0 @@
-# Simulasi-Perilaku-Objek-Hewan-Menggunakan-Konsep-OOP-Java
